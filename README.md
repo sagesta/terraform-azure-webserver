@@ -34,9 +34,10 @@ terraform validate
 ```bash
 terraform plan
 terraform apply
-![resource creation](https://github.com/user-attachments/assets/7b056236-855b-4add-99c5-7a392f792547)
+
 
 ```
+![resource creation](https://github.com/user-attachments/assets/7b056236-855b-4add-99c5-7a392f792547)
 
 
 ![resources created](https://github.com/user-attachments/assets/9c2a19c1-ad1b-49d3-b1c5-e09b5a6f47ef)
