@@ -36,6 +36,12 @@ terraform plan
 terraform apply
 ```
 
+
+![resources created](https://github.com/user-attachments/assets/9c2a19c1-ad1b-49d3-b1c5-e09b5a6f47ef)
+
+
+![running nginx server](https://github.com/user-attachments/assets/21c7f322-fa22-4110-a3f5-d726d68c0e21)
+
 ## Important Security Notes
 
 - Never commit `terraform.tfvars` to version control
